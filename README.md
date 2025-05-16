@@ -1,5 +1,5 @@
 # Task Note
-Another version of the todo list with jquery.
+My version 2.0 of the todo, built with jQuery.
 
 ## Technologies
 - JavaScript
