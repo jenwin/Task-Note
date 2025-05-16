@@ -1,4 +1,4 @@
-# todo-list-jquery-v2
+# Task Note
 Another version of the todo list with jquery.
 
 ## How to Start
