@@ -6,8 +6,8 @@ My version 2.0 of the todo, built with jQuery.
 - CSS3
 - HTML5
 
-## How to Start
-- Clone or Download
+## Live Demo
+[https://jenwin.github.io/Task-Note](https://jenwin.github.io/Task-Note/)
 
 ## License
 GNU General Public License v3.0
